@@ -28,42 +28,14 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheerajjoshi&show_icons=true&theme=radical" alt="Dheeraj's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajjoshi&theme=radical" alt="Dheeraj's GitHub Streak" />
-</div>
-
-## Projects 🚀
-
-Here are some of my notable projects:
-
-- [Project Name](GitHub repo link) - Short description of project
-- [Project Name](GitHub repo link) - Short description of project
-- [Project Name](GitHub repo link) - Short description of project
-
 ## Connect With Me 🌐
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dheerajjoshi02/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
 ⚡ Fun fact: **I enjoy building scalable apps & exploring new tech stacks!**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dheerajjoshi&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
