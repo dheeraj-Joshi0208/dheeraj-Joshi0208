@@ -3,7 +3,7 @@
 ## *About Me*  
 - 💻 Software & Web Developer passionate about building scalable applications  
 - 🌱 Currently expanding my skills in **Backend Development** and **Git/GitHub** workflows  
-- 🔍 Looking to collaborate on **Web Applications** and **Open-Source Projects**  
+- 🔍 Looking to collaborate on **Web Applications**
 - 📫 Reach me at: **dheerajjoshi0208@gmail.com**  
 - 😄 Pronouns: **He/Him**  
 
