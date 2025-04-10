@@ -84,9 +84,14 @@
 
 ### *Learning*
 *Currently focusing on expanding my knowledge in:*
-- *Advanced Backend Development*
-- *System Design*
-- *Cloud Technologies (AWS, Azure)*
+- *🛠️Advanced Backend Development*
+- *🧱System Design*
+- *☁️Cloud Technologies (AWS, Azure)*
+- *🔧TypeScript + React*
+- *📡REST APIs*
+- *🗃️MongoDB with Mongoose*
+- *🚀Deployment via Netlify & Vercel*
+- *🧠Data Structures & Algorithms**
 
 ## *Connect With Me* 🌐
 <p align="left">
